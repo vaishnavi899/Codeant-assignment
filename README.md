@@ -1,22 +1,11 @@
-# CodeAnt AI Assignment by Adnan Shaik
-
-**Hosted link:** https://codeant-assignment-theta.vercel.app/
-
-**Portfolio link:** https://adnan-portfolio-v2.vercel.app/
-
-## Tech Used
-1) React
-2) TypeScript
-3) Next.JS
-4) Tailwind CSS
-5) Vercel (deployment)
+# CodeAnt AI Assignment
 
 ## Steps to install and run the project locally
 
 1) Clone the Github Repo using this command to your system:
    ```bash
-     git clone https://github.com/adnan179/codeant_assignment.git
-2) Now that repo is cloned, move to the cloned folder, and let's install dependencies:
+     git clone https://github.com/vaishnavi899/Codeant-assignment.git
+2) install dependencies:
      ```bash
        cd codeant_assignment
        npm install
@@ -27,7 +16,8 @@
      ```bash
        http://localhost:3000
 
-## Images:
-![image](https://github.com/user-attachments/assets/56d9b77c-faff-47d3-9ef6-d468713469dc)
-![image](https://github.com/user-attachments/assets/2964935d-57c3-4271-a18c-d76c2dbe0be1)
+
+
+
+https://github.com/user-attachments/assets/7cd7f039-f50f-47b3-bc06-61bf728981f4
 
